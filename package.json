@@ -1,27 +1,28 @@
 {
-  "name": "",
+  "name": "cargo-collective-exodus",
   "version": "0.0.0",
-  "description": "",
+  "description": "Download all the images from a Cargo Collective portfolio",
   "main": "index.js",
   "scripts": {
-    "start": "echo no start script... yet!",
+    "start": "node index.js",
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/zeke/cargo-collective-exodus"
   },
   "keywords": [
-    "",
-    "",
-    ""
+    "cargo",
+    "portfolio",
+    "scraper",
+    "downloader"
   ],
-  "author": "",
+  "author": "zeke",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/zeke/cargo-collective-exodus/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/zeke/cargo-collective-exodus",
   "devDependencies": {
     "mocha": "^1.20.0"
   },
